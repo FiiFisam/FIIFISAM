@@ -1,5 +1,4 @@
-## Hi there 👋
-
+I am LAC Quainoo Sampson from AirForce Base Tamale
 <!--
 **FiiFisam/FIIFISAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
